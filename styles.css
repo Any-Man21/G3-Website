@@ -313,6 +313,7 @@ main > section{
 }
 
 /* responsive workload (mobile phone)*/
+
 @media screen  and (max-width: 576px){
     
     .navbar, .nav-links, .teams, .features{
